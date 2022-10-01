@@ -1,8 +1,8 @@
 Biodata 
-Kode Peserta : 149368582100-427
-Nama		 : Elang Eka Marga Putra
-Link Github  : https://github.com/Elang-Eka/427_Elang_Eka_Marga_Putra_gob2/tree/master/ass-01
-Alamat	 : Jl Singomenggolo, Dsn. malang ganting, Ds. Ganting, Gedangan, Sidoarjo
+Kode Peserta : 149368582101-633
+Nama		 : Asep Saefuddin
+Link Github  : https://github.com/accessletor/Golang-B2/tree/main/ass1
+Alamat	 : Cirebon kecamatan dukupuntang blok dukumalang rt/rw 01/01
 
 Paduan Aplikasi	: 
 1. Buka cmd 
